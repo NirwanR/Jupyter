@@ -1,3 +1,7 @@
+In this notebook, we shall analyze the Olympic Games in the survey under 4 different categories, namely:
+
+![image](https://user-images.githubusercontent.com/41076250/102005644-6bc1db00-3d40-11eb-9c88-66eb4f143f94.png)
+
 If you like anything from this repo.. please give star mark...
 Some visualization screenshots are in picture.md 
 Extra visualizations also present in notebook with .ipynb extension.
